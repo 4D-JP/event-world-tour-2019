@@ -19,4 +19,4 @@
 
 * white
 
-<img width="736" alt="スクリーンショット 2019-05-17 9 44 06" src="https://user-images.githubusercontent.com/10509075/57895758-55178180-7888-11e9-8935-b64be6284041.png">
+<img width="736" alt="スクリーンショット 2019-05-17 9 45 10" src="https://user-images.githubusercontent.com/10509075/57895794-7b3d2180-7888-11e9-8d87-5ab452985d2b.png">

@@ -11,7 +11,7 @@
 
 * light
 
-<img width="736" alt="スクリーンショット 2019-05-17 9 43 23" src="https://user-images.githubusercontent.com/10509075/57895745-3adda380-7888-11e9-9c7b-2b53c0038cb6.png">
+<img width="736" alt="スクリーンショット 2019-05-17 9 46 07" src="https://user-images.githubusercontent.com/10509075/57895833-9f006780-7888-11e9-9dd2-b71753ffda76.png">
 
 * default
 

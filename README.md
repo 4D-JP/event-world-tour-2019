@@ -15,7 +15,7 @@
 
 * default
 
-<img width="736" alt="スクリーンショット 2019-05-17 9 41 15" src="https://user-images.githubusercontent.com/10509075/57895690-ef2afa00-7887-11e9-8156-314f4fb9211f.png">
+<img width="736" alt="スクリーンショット 2019-05-17 9 47 52" src="https://user-images.githubusercontent.com/10509075/57895896-dd962200-7888-11e9-99dc-5298174cedad.png">
 
 * white
 

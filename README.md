@@ -1,8 +1,7 @@
 # event-world-tour-2019
 4D World Tour 2019 資料
 
-### Themes
----
+#### Themes
 
 [メソッドエディターの設定ファイル例](https://github.com/4D-JP/event-world-tour-2019/releases/tag/themes-0.9)
 

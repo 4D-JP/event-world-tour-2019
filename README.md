@@ -7,7 +7,7 @@
 
 * dark
 
-<img width="736" alt="スクリーンショット 2019-05-17 9 42 25" src="https://user-images.githubusercontent.com/10509075/57895722-1da8d500-7888-11e9-82d8-0ecd5994f17a.png">
+<img width="736" alt="スクリーンショット 2019-05-17 9 47 04" src="https://user-images.githubusercontent.com/10509075/57895878-c0615380-7888-11e9-84ec-f5dc9fbc2e6e.png">
 
 * light
 

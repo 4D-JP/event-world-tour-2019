@@ -3,7 +3,7 @@
 
 ### シグナル
 
-[シグナル #17R4](https://github.com/4D-JP/event-world-tour-2019/releases/tag/signal-queue-1.0)
+[シグナル #17R4](https://github.com/4D-JP/event-world-tour-2019/releases/tag/signal-queue-1.1)
 
 ``Signal``オブジェクトを使用したメッセージキューの例題
 
